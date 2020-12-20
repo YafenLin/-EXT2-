@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/sakura/osExt2/build",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-7  -I/home/sakura/osExt2/./include -I/home/sakura/osExt2/./pcap  -g   -o CMakeFiles/main.dir/src/disk.c.o   -c /home/sakura/osExt2/src/disk.c",
+  "file": "/home/sakura/osExt2/src/disk.c"
+},
+{
+  "directory": "/home/sakura/osExt2/build",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-7  -I/home/sakura/osExt2/./include -I/home/sakura/osExt2/./pcap  -g   -o CMakeFiles/main.dir/src/ext2.c.o   -c /home/sakura/osExt2/src/ext2.c",
+  "file": "/home/sakura/osExt2/src/ext2.c"
+},
+{
+  "directory": "/home/sakura/osExt2/build",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-7  -I/home/sakura/osExt2/./include -I/home/sakura/osExt2/./pcap  -g   -o CMakeFiles/main.dir/src/sh.c.o   -c /home/sakura/osExt2/src/sh.c",
+  "file": "/home/sakura/osExt2/src/sh.c"
+}
+]

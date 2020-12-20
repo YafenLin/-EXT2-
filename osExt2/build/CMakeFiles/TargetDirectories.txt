@@ -1,0 +1,3 @@
+/home/sakura/osExt2/build/CMakeFiles/rebuild_cache.dir
+/home/sakura/osExt2/build/CMakeFiles/main.dir
+/home/sakura/osExt2/build/CMakeFiles/edit_cache.dir

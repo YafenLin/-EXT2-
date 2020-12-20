@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-gcc-7 -g  -rdynamic CMakeFiles/main.dir/src/disk.c.o CMakeFiles/main.dir/src/ext2.c.o CMakeFiles/main.dir/src/sh.c.o  -o main 

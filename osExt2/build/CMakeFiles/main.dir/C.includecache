@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././include/disk.h
+
+.././include/ext2.h
+
+/home/sakura/osExt2/src/disk.c
+disk.h
+/home/sakura/osExt2/src/disk.h
+stdio.h
+-
+
+/home/sakura/osExt2/src/ext2.c
+disk.h
+/home/sakura/osExt2/src/disk.h
+ext2.h
+/home/sakura/osExt2/src/ext2.h
+string.h
+-
+stdio.h
+-
+
+/home/sakura/osExt2/src/sh.c
+string.h
+-
+stdio.h
+-
+ext2.h
+/home/sakura/osExt2/src/ext2.h
+disk.h
+/home/sakura/osExt2/src/disk.h
+
